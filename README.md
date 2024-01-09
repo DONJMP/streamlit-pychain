@@ -13,3 +13,5 @@ You’ll make the following updates to the provided Python file for this assignm
 3. Add Relevant User Inputs to the Streamlit interface.
 
 4. Test the PyChain Ledger by Storing Records.
+
+https://github.com/DONJMP/streamlit-pychain/blob/cad97ec478877144ec67be16f77b090ddf245d69/pychain.jpg
